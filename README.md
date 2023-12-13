@@ -1,6 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/9NDadFFr)
-Add design docs in *images/*
-
 ## Instructions to setup and run project
 1. Install MongoDB and Node.js on your computer.
 2. Run **npm install** in both the _server_ directory and _client_ directory.
